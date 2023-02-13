@@ -1,5 +1,5 @@
 #Udemy page clone
 
-Still in progress though
+https://bolumorin.github.io/Udemy-page-clone/
 
 Technology used : HTML AND CSS
